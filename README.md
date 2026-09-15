@@ -12,7 +12,7 @@ Independent AI-systems research and engineering by **Samuel Lawson**. Local-firs
 Integration-Theorem era: **[emergent-ai-human-cooperation-thesis](https://github.com/darksciencedivision-ctrl/emergent-ai-human-cooperation-thesis)** (canonical; the original February 2026 edition is preserved at [emergent-cooperation-thesis](https://github.com/darksciencedivision-ctrl/emergent-cooperation-thesis)), [covenant-equilibrium](https://github.com/darksciencedivision-ctrl/covenant-equilibrium), [RRR_DUAL_CYCLE](https://github.com/darksciencedivision-ctrl/RRR_DUAL_CYCLE).
 
 ## Product families (earlier generation)
-- **PRAXIS** — probabilistic risk analysis: [praxis-titan](https://github.com/darksciencedivision-ctrl/praxis-titan) (public architecture), [Praxis-engine](https://github.com/darksciencedivision-ctrl/Praxis-engine) (commercial core), [praxis-mantis](https://github.com/darksciencedivision-ctrl/praxis-mantis) (policy planning).
+- **PRAXIS** — probabilistic risk analysis: [praxis-titan](https://github.com/darksciencedivision-ctrl/praxis-titan) (public architecture), [praxis-engine](https://github.com/darksciencedivision-ctrl/praxis-engine) (commercial core), [praxis-mantis](https://github.com/darksciencedivision-ctrl/praxis-mantis) (policy planning).
 - **NEO-LAB** — deterministic local-LLM control plane: [Neo-V3](https://github.com/darksciencedivision-ctrl/Neo-V3) (current); earlier planes archived. Tools: [ollama-dialog-broker](https://github.com/darksciencedivision-ctrl/ollama-dialog-broker), [URI](https://github.com/darksciencedivision-ctrl/URI) (historical).
 
-Research theses CC BY-NC-ND 4.0 unless stated; code MIT unless stated. Contact: darksciencedivision@gmail.com
+Research papers are licensed under CC BY-NC-ND 4.0 (CC BY 4.0 where stated); code is under the Dark Science Division Dual License — free for non-commercial, academic, evaluation, and research use; commercial use by separate license. Contact: darksciencedivision@gmail.com
